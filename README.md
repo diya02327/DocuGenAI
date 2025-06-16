@@ -94,4 +94,3 @@ ChromaDB for vector storage and retrieval.
 Streamlit for an easy and flexible frontend experience.
 Faker for synthetic data generation.
 Plotly for beautiful interactive charts.
-# DocuGenAI
