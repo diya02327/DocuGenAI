@@ -1,4 +1,3 @@
-# Final_Project_Prompt_Engineering-
 # DocuGenAI: Technical Documentation Assistant
 
 # Team Members
